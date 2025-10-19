@@ -53,7 +53,7 @@ export default function Home() {
 
 
       {/* HERO */}
-      <h1 className="text-4xl font-bold mb-2 text-center">Hi, I'm Shonya Balqis Fithriyyah 👋</h1>
+      <h1 className="text-4xl font-bold mb-2 text-center">Hi, Im Shonya Balqis Fithriyyah 👋</h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
         Web Developer & Law Student who builds modern web applications.
       </p>
