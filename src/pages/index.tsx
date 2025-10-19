@@ -61,7 +61,7 @@ export default function Home() {
       {/* ABOUT */}
       <h2 className="text-2xl font-semibold mb-2">About Me</h2>
       <p className="text-gray-400 text-center max-w-md mb-12">
-        I’m a Law Student and Web Developer passionate about technology, design, and continuous learning. I enjoy exploring how technology can make education and daily life more efficient.
+        Im a Law Student and Web Developer passionate about technology, design, and continuous learning. I enjoy exploring how technology can make education and daily life more efficient.
       </p>
 
      {/* SKILLS */}
