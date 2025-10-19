@@ -93,7 +93,7 @@ export default function Home() {
       {/* CONTACT */}
       <h2 className="text-3xl font-bold mb-4 text-white text-center">Contact</h2>
 <p className="text-gray-400 mb-8 text-center text-lg">
-  Let’s build something amazing together! 🚀
+  Lets build something amazing together! 🚀
 </p>
 
 <div className="flex justify-center">
